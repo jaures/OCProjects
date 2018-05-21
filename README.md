@@ -1,2 +1,0 @@
-# OCProjects
-Random Cool Project :)
